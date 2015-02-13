@@ -36,7 +36,8 @@
     ],
     "data": [
         'data/migration.xml',
-        "data/res_partner_title.xml",
+        # Conflicts with customizations for this customer
+        # "data/res_partner_title.xml",
         "view/res_partner_title.xml",
         'view/res_partner.xml',
     ],
